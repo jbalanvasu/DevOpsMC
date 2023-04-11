@@ -1,5 +1,5 @@
 $scratch = 's:\scratch'
-$devopsmc = 'C:\Users\john\OneDrive\projects\GIT\DevOpsMC'
+$devopsmc = 'C:\Users\jeyabalan.vasudevan\JBTestProject\Azuredevops\DevOpsMC'
 
 #Check version
 git --version
